@@ -1,0 +1,32 @@
+.text-center {
+    margin-top: 8%;
+}
+
+.mb-3 {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 1em;
+}
+
+.search-button {
+    margin-left: 40%;
+    margin-top: 1cm;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+	font-size: 20px;
+	font-family: sans-serif;
+	padding: 10px;
+	margin: 10px;
+}
+
+#mysearchbar {
+	width: 700px;
+	border-radius: 25px;
+	border-width: 1px;
+
+}
